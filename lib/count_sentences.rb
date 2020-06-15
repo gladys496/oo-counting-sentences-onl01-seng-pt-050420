@@ -30,7 +30,7 @@ end
   def count_sentences
    new_count = self.split(".")
    new_count.count
-   other_count.length = new_count
+   new_count.length 
   end
  
   
