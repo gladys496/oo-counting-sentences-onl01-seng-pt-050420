@@ -31,6 +31,6 @@ end
    new_count = self.split(".")
    new_count.count
   end
-  
+  new_count
   
 end
